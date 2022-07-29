@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\OneDrive\\Desktop\\New folder\\spaceXpro.html"
+		},
+		{
+			"path": "..\\..\\Downloads\\Kopiko Usa2"
+		},
+		{
+			"path": "..\\..\\JS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS"
+	}
+}
